@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+.font-serif-ballot {
+  font-family: 'Merriweather', serif;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
